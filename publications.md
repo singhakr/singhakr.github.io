@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-
+1.  Rajesh Kumar Mundotiya, Praveen Gatla, Nikita Kanwar and Anil Kumar Singh. Deep Learning based Similar Languages’ POS Tagging: Experiments on Bhojpuri, Maithili and Magahi. In Proceedings of the 7th International Conference on Soft Computing: Theories and Applications. Shimla, India. December 2022.
 1.	Amit Kumar, Rajesh Kumar Mundotiya, Ajay Pratap and Anil Kumar Singh. TLSPG: Transfer learning-based semi-supervised pseudo-corpus generation approach for zero-shot translation. Journal of King Saud University-Computer and Information Sciences. Elseviers. Volume 34, Issue 9. October 2022. Pages 6552-6563. https://doi.org/10.1016/j.jksuci.2022.03.008.
 1.	Amit Kumar, Ajay Pratap and Anil Kumar Singh. Generative Adversarial Neural Machine Translation for Phonetic Languages via Reinforcement Learning. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). 2022. In press.
 1.	Rupjyoti Baruah and Anil Kumar Singh. A Clinical Practice by Machine Translation on Low Resource Languages. In Natural Language Processing in Healthcare: A Special Focus on Low Resource Languages. atya Ranjan Dash, Shantipriya Parida, Esaú Villatoro Tello, Biswaranjan Acharya, Ondrej Bojar (Ed.). CRC Press. 2022.
